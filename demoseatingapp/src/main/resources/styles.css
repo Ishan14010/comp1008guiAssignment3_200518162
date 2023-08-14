@@ -1,0 +1,45 @@
+/* styles.css */
+
+/* Overall styling for the main layout */
+.root {
+    -fx-background-color: #f0f0f0; /* Light gray background */
+}
+
+/* Styling for the form */
+.form {
+    -fx-padding: 20px;
+    -fx-background-color: #ffffff; /* White background */
+    -fx-border-color: #dddddd; /* Light gray border */
+    -fx-border-width: 1px;
+    -fx-border-radius: 5px;
+}
+
+/* Styling for labels */
+.label {
+    -fx-font-size: 14px;
+}
+
+/* Styling for text field */
+.text-field {
+    -fx-pref-width: 200px;
+    -fx-font-size: 14px;
+    -fx-background-color: #ffffff; /* White background */
+    -fx-border-color: #cccccc; /* Light gray border */
+    -fx-border-width: 1px;
+    -fx-border-radius: 3px;
+}
+
+/* Styling for color picker */
+.color-picker {
+    -fx-pref-width: 200px;
+}
+
+/* Styling for buttons */
+.button {
+    -fx-pref-width: 100px;
+    -fx-font-size: 14px;
+    -fx-background-color: #007bff; /* Blue button color */
+    -fx-text-fill: white; /* White text color */
+}
+
+/* Sty
